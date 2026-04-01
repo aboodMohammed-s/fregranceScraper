@@ -1,0 +1,1177 @@
+2026-03-30 15:41:59,710 [INFO] 🚀 Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 15:41:59,710 [INFO] 📁 Output directory: output
+2026-03-30 15:41:59,710 [INFO] 📊 Starting iteration 1
+2026-03-30 15:41:59,710 [INFO] 🌐 Crawling Fragrantica...
+2026-03-30 15:41:59,710 [INFO] 🚀 Starting Fragrantica full crawl...
+2026-03-30 15:41:59,717 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:41:59,717 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 15:41:59,717 [INFO] 🔍 Collecting all perfume URLs from Fragrantica...
+2026-03-30 15:41:59,717 [INFO] 🔍 Collecting all brand URLs from Fragrantica...
+2026-03-30 15:42:10,990 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/0/
+2026-03-30 15:42:18,450 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/a/
+2026-03-30 15:42:28,452 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/b/
+2026-03-30 15:42:36,700 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/c/
+2026-03-30 15:42:46,149 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/d/
+2026-03-30 15:42:54,686 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/e/
+2026-03-30 15:43:04,159 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/f/
+2026-03-30 15:43:12,135 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/g/
+2026-03-30 15:43:19,884 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/h/
+2026-03-30 15:43:29,188 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/i/
+2026-03-30 15:43:38,801 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/j/
+2026-03-30 15:43:46,321 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/k/
+2026-03-30 15:43:57,015 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/l/
+2026-03-30 15:44:05,430 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/m/
+2026-03-30 15:44:15,203 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/n/
+2026-03-30 15:44:27,385 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/o/
+2026-03-30 15:44:38,278 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/p/
+2026-03-30 15:44:46,814 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/q/
+2026-03-30 15:44:56,171 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/r/
+2026-03-30 15:45:02,741 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/s/
+2026-03-30 15:45:13,222 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/t/
+2026-03-30 15:45:23,105 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/u/
+2026-03-30 15:45:33,417 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/v/
+2026-03-30 15:45:44,401 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/w/
+2026-03-30 15:45:51,513 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/x/
+2026-03-30 15:45:58,883 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/y/
+2026-03-30 15:46:05,456 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/z/
+2026-03-30 15:46:08,786 [INFO] ✅ Found 0 unique brands
+2026-03-30 15:46:08,786 [INFO] ✅ Total unique perfume URLs collected: 0
+2026-03-30 15:46:08,787 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:46:08,787 [INFO] 📊 Total pending perfumes: 0
+2026-03-30 15:46:08,787 [INFO] 🏁 Fragrantica completed! Processed 0 perfumes
+2026-03-30 15:46:08,787 [INFO] 🌐 Crawling FragranceNet...
+2026-03-30 15:46:08,787 [INFO] 🚀 Starting FragranceNet full crawl...
+2026-03-30 15:46:08,787 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 15:46:08,788 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-30 15:46:08,788 [INFO] 🔍 Collecting all product URLs from FragranceNet...
+2026-03-30 15:46:08,788 [INFO] Processing category: /mens-fragrances
+2026-03-30 15:46:16,876 [WARNING] HTTP 404 for https://www.fragrancenet.com/mens-fragrances?page=1
+2026-03-30 15:46:16,876 [INFO] Found 0 products in /mens-fragrances
+2026-03-30 15:46:16,877 [INFO] Processing category: /womens-fragrances
+2026-03-30 15:46:23,498 [WARNING] HTTP 404 for https://www.fragrancenet.com/womens-fragrances?page=1
+2026-03-30 15:46:23,498 [INFO] Found 0 products in /womens-fragrances
+2026-03-30 15:46:23,498 [INFO] Processing category: /unisex-fragrances
+2026-03-30 15:46:31,070 [WARNING] HTTP 404 for https://www.fragrancenet.com/unisex-fragrances?page=1
+2026-03-30 15:46:31,070 [INFO] Found 0 products in /unisex-fragrances
+2026-03-30 15:46:31,070 [INFO] ✅ Total unique product URLs: 0
+2026-03-30 15:46:31,071 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 15:46:31,071 [INFO] 📊 Total pending products: 0
+2026-03-30 15:46:31,071 [INFO] 🏁 FragranceNet completed! Processed 0 products
+2026-03-30 15:46:31,071 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 15:46:31,072 [ERROR] Fatal error: cannot access local variable 'timestamp' where it is not associated with a value
+2026-03-30 15:46:31,072 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 15:49:32,164 [INFO] 🚀 Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 15:49:32,164 [INFO] 📁 Output directory: output
+2026-03-30 15:49:32,164 [INFO] 📊 Starting iteration 1
+2026-03-30 15:49:32,164 [INFO] 🌐 Crawling Fragrantica...
+2026-03-30 15:49:32,164 [INFO] 🚀 Starting Fragrantica full crawl...
+2026-03-30 15:49:32,164 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:49:32,165 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 15:49:32,165 [INFO] 🔍 Collecting all perfume URLs from Fragrantica...
+2026-03-30 15:49:32,165 [INFO] 🔍 Collecting all brand URLs from Fragrantica...
+2026-03-30 15:49:47,749 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/0/
+2026-03-30 15:49:53,549 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/a/
+2026-03-30 15:49:55,490 [INFO] ⚠️ Received stop signal. Saving progress and exiting gracefully...
+2026-03-30 15:50:02,543 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/b/
+2026-03-30 15:50:11,793 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/c/
+2026-03-30 15:50:20,743 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/d/
+2026-03-30 15:50:28,656 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/e/
+2026-03-30 15:50:38,041 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/f/
+2026-03-30 15:50:49,628 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/g/
+2026-03-30 15:50:58,813 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/h/
+2026-03-30 15:51:09,353 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/i/
+2026-03-30 15:51:19,380 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/j/
+2026-03-30 15:51:26,608 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/k/
+2026-03-30 15:51:36,431 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/l/
+2026-03-30 15:51:47,130 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/m/
+2026-03-30 15:51:55,736 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/n/
+2026-03-30 15:52:05,994 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/o/
+2026-03-30 15:52:12,487 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/p/
+2026-03-30 15:52:24,490 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/q/
+2026-03-30 15:52:35,346 [WARNING] HTTP 404 for https://www.fragrantica.com/designers/r/
+2026-03-30 15:52:43,179 [INFO] 🚀 Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 15:52:43,179 [INFO] 📁 Output directory: output
+2026-03-30 15:52:43,180 [INFO] 📊 Starting iteration 1
+2026-03-30 15:52:43,180 [INFO] 🌐 Crawling Fragrantica...
+2026-03-30 15:52:43,180 [INFO] 🚀 Starting Fragrantica full crawl...
+2026-03-30 15:52:43,180 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:52:43,181 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 15:52:43,181 [INFO] 🔍 Collecting all perfume URLs from Fragrantica...
+2026-03-30 15:52:43,181 [INFO] 🔍 Collecting all brand URLs from Fragrantica...
+2026-03-30 15:52:50,215 [INFO] ✅ Found 0 unique brands
+2026-03-30 15:52:50,215 [INFO] ✅ Total unique perfume URLs collected: 0
+2026-03-30 15:52:50,216 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:52:50,216 [INFO] 📊 Total pending perfumes: 0
+2026-03-30 15:52:50,216 [INFO] 🏁 Fragrantica completed! Processed 0 perfumes
+2026-03-30 15:52:50,216 [INFO] 🌐 Crawling FragranceNet...
+2026-03-30 15:52:50,216 [INFO] 🚀 Starting FragranceNet full crawl...
+2026-03-30 15:52:50,216 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 15:52:50,217 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-30 15:52:50,217 [INFO] 🔍 Collecting all product URLs from FragranceNet...
+2026-03-30 15:52:58,801 [INFO] ✅ Total unique product URLs: 0
+2026-03-30 15:52:58,802 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 15:52:58,802 [INFO] 📊 Total pending products: 0
+2026-03-30 15:52:58,802 [INFO] 🏁 FragranceNet completed! Processed 0 products
+2026-03-30 15:52:58,802 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 15:52:58,804 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_155258.json
+2026-03-30 15:52:58,805 [INFO] ============================================================
+2026-03-30 15:52:58,805 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 15:52:58,805 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 15:52:58,805 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 15:52:58,805 [INFO] 📁 Data exported to: output/
+2026-03-30 15:52:58,805 [INFO] ============================================================
+2026-03-30 15:52:58,806 [INFO] 🎉 All scraping tasks completed successfully!
+2026-03-30 15:52:58,806 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 15:52:58,808 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_155258.json
+2026-03-30 15:52:58,808 [INFO] ============================================================
+2026-03-30 15:52:58,808 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 15:52:58,808 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 15:52:58,808 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 15:52:58,808 [INFO] 📁 Data exported to: output/
+2026-03-30 15:52:58,809 [INFO] ============================================================
+2026-03-30 15:52:58,809 [INFO] 🏁 Scraping operation completed!
+2026-03-30 15:54:39,293 [INFO] 🚀 Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 15:54:39,293 [INFO] 📁 Output directory: output
+2026-03-30 15:54:39,293 [INFO] 📊 Starting iteration 1
+2026-03-30 15:54:39,293 [INFO] 🌐 Crawling Fragrantica...
+2026-03-30 15:54:39,293 [INFO] 🚀 Starting Fragrantica full crawl...
+2026-03-30 15:54:39,293 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:54:39,293 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 15:54:39,293 [INFO] 🔍 Collecting all perfume URLs from Fragrantica...
+2026-03-30 15:54:39,294 [INFO] 🔍 Collecting all brand URLs from Fragrantica...
+2026-03-30 15:54:48,383 [INFO] ✅ Found 0 unique brands
+2026-03-30 15:54:48,384 [INFO] ✅ Total unique perfume URLs collected: 0
+2026-03-30 15:54:48,384 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:54:48,384 [INFO] 📊 Total pending perfumes: 0
+2026-03-30 15:54:48,385 [INFO] 🏁 Fragrantica completed! Processed 0 perfumes
+2026-03-30 15:54:48,385 [INFO] 🌐 Crawling FragranceNet...
+2026-03-30 15:54:48,385 [INFO] 🚀 Starting FragranceNet full crawl...
+2026-03-30 15:54:48,385 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 15:54:48,385 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-30 15:54:48,385 [INFO] 🔍 Collecting all product URLs from FragranceNet...
+2026-03-30 15:54:56,013 [INFO] ✅ Total unique product URLs: 0
+2026-03-30 15:54:56,014 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 15:54:56,015 [INFO] 📊 Total pending products: 0
+2026-03-30 15:54:56,015 [INFO] 🏁 FragranceNet completed! Processed 0 products
+2026-03-30 15:54:56,016 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 15:54:56,019 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_155456.json
+2026-03-30 15:54:56,020 [INFO] ============================================================
+2026-03-30 15:54:56,020 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 15:54:56,020 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 15:54:56,020 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 15:54:56,020 [INFO] 📁 Data exported to: output/
+2026-03-30 15:54:56,021 [INFO] ============================================================
+2026-03-30 15:54:56,021 [INFO] 🎉 All scraping tasks completed successfully!
+2026-03-30 15:54:56,021 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 15:54:56,023 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_155456.json
+2026-03-30 15:54:56,024 [INFO] ============================================================
+2026-03-30 15:54:56,024 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 15:54:56,024 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 15:54:56,025 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 15:54:56,025 [INFO] 📁 Data exported to: output/
+2026-03-30 15:54:56,025 [INFO] ============================================================
+2026-03-30 15:54:56,025 [INFO] 🏁 Scraping operation completed!
+2026-03-30 15:55:19,866 [INFO] 🚀 Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 15:55:19,867 [INFO] 📁 Output directory: output
+2026-03-30 15:55:19,867 [INFO] 📊 Starting iteration 1
+2026-03-30 15:55:19,867 [INFO] 🌐 Crawling Fragrantica...
+2026-03-30 15:55:19,867 [INFO] 🚀 Starting Fragrantica full crawl...
+2026-03-30 15:55:19,867 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:55:19,867 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 15:55:19,867 [INFO] 🔍 Collecting all perfume URLs from Fragrantica...
+2026-03-30 15:55:19,867 [INFO] 🔍 Collecting all brand URLs from Fragrantica...
+2026-03-30 15:55:26,877 [INFO] ✅ Found 0 unique brands
+2026-03-30 15:55:26,878 [INFO] ✅ Total unique perfume URLs collected: 0
+2026-03-30 15:55:26,878 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:55:26,878 [INFO] 📊 Total pending perfumes: 0
+2026-03-30 15:55:26,878 [INFO] 🏁 Fragrantica completed! Processed 0 perfumes
+2026-03-30 15:55:26,878 [INFO] 🌐 Crawling FragranceNet...
+2026-03-30 15:55:26,879 [INFO] 🚀 Starting FragranceNet full crawl...
+2026-03-30 15:55:26,879 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 15:55:26,879 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-30 15:55:26,879 [INFO] 🔍 Collecting all product URLs from FragranceNet...
+2026-03-30 15:55:27,366 [INFO] ⚠️ Received stop signal. Saving progress and exiting gracefully...
+2026-03-30 15:55:33,692 [INFO] ✅ Total unique product URLs: 0
+2026-03-30 15:55:33,692 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 15:55:33,693 [INFO] 📊 Total pending products: 0
+2026-03-30 15:55:33,693 [INFO] 🏁 FragranceNet completed! Processed 0 products
+2026-03-30 15:55:33,693 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 15:55:33,703 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_155533.json
+2026-03-30 15:55:33,703 [INFO] ============================================================
+2026-03-30 15:55:33,703 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 15:55:33,703 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 15:55:33,704 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 15:55:33,704 [INFO] 📁 Data exported to: output/
+2026-03-30 15:55:33,704 [INFO] ============================================================
+2026-03-30 15:55:33,704 [INFO] 🎉 All scraping tasks completed successfully!
+2026-03-30 15:55:33,704 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 15:55:33,705 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_155533.json
+2026-03-30 15:55:33,706 [INFO] ============================================================
+2026-03-30 15:55:33,706 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 15:55:33,706 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 15:55:33,706 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 15:55:33,706 [INFO] 📁 Data exported to: output/
+2026-03-30 15:55:33,706 [INFO] ============================================================
+2026-03-30 15:55:33,706 [INFO] 🏁 Scraping operation completed!
+2026-03-30 15:55:45,037 [INFO] 🚀 Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 15:55:45,038 [INFO] 📁 Output directory: output
+2026-03-30 15:55:45,038 [INFO] 📊 Starting iteration 1
+2026-03-30 15:55:45,038 [INFO] 🌐 Crawling Fragrantica...
+2026-03-30 15:55:45,038 [INFO] 🚀 Starting Fragrantica full crawl...
+2026-03-30 15:55:45,038 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:55:45,039 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 15:55:45,039 [INFO] 🔍 Collecting all perfume URLs from Fragrantica...
+2026-03-30 15:55:45,039 [INFO] 🔍 Collecting all brand URLs from Fragrantica...
+2026-03-30 15:55:53,769 [INFO] ✅ Found 0 unique brands
+2026-03-30 15:55:53,769 [INFO] ✅ Total unique perfume URLs collected: 0
+2026-03-30 15:55:53,769 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 15:55:53,770 [INFO] 📊 Total pending perfumes: 0
+2026-03-30 15:55:53,770 [INFO] 🏁 Fragrantica completed! Processed 0 perfumes
+2026-03-30 15:55:53,770 [INFO] 🌐 Crawling FragranceNet...
+2026-03-30 15:55:53,770 [INFO] 🚀 Starting FragranceNet full crawl...
+2026-03-30 15:55:53,770 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 15:55:53,770 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-30 15:55:53,770 [INFO] 🔍 Collecting all product URLs from FragranceNet...
+2026-03-30 15:55:59,912 [INFO] ✅ Total unique product URLs: 0
+2026-03-30 15:55:59,914 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 15:55:59,915 [INFO] 📊 Total pending products: 0
+2026-03-30 15:55:59,916 [INFO] 🏁 FragranceNet completed! Processed 0 products
+2026-03-30 15:55:59,916 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 15:55:59,921 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_155559.json
+2026-03-30 15:55:59,922 [INFO] ============================================================
+2026-03-30 15:55:59,923 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 15:55:59,923 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 15:55:59,923 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 15:55:59,924 [INFO] 📁 Data exported to: output/
+2026-03-30 15:55:59,924 [INFO] ============================================================
+2026-03-30 15:55:59,925 [INFO] 🎉 All scraping tasks completed successfully!
+2026-03-30 15:55:59,925 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 15:55:59,929 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_155559.json
+2026-03-30 15:55:59,930 [INFO] ============================================================
+2026-03-30 15:55:59,930 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 15:55:59,930 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 15:55:59,930 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 15:55:59,930 [INFO] 📁 Data exported to: output/
+2026-03-30 15:55:59,931 [INFO] ============================================================
+2026-03-30 15:55:59,931 [INFO] 🏁 Scraping operation completed!
+2026-03-30 16:09:48,239 [INFO] 🚀 Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 16:09:48,239 [INFO] 📁 Output directory: output
+2026-03-30 16:09:48,239 [INFO] 📊 Starting iteration 1
+2026-03-30 16:09:48,239 [INFO] 🌐 Crawling Fragrantica...
+2026-03-30 16:09:48,239 [INFO] 🚀 Starting Fragrantica full crawl...
+2026-03-30 16:09:48,240 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 16:09:48,240 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 16:09:48,240 [INFO] 🔍 Collecting all perfume URLs from Fragrantica...
+2026-03-30 16:09:48,240 [INFO] 🔍 Collecting all brand URLs from Fragrantica...
+2026-03-30 16:09:57,916 [INFO] ✅ Found 0 unique brands
+2026-03-30 16:09:57,917 [INFO] ✅ Total unique perfume URLs collected: 0
+2026-03-30 16:09:57,917 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 16:09:57,918 [INFO] 📊 Total pending perfumes: 0
+2026-03-30 16:09:57,919 [INFO] 🏁 Fragrantica completed! Processed 0 perfumes
+2026-03-30 16:09:57,919 [INFO] 🌐 Crawling FragranceNet...
+2026-03-30 16:09:57,919 [INFO] 🚀 Starting FragranceNet full crawl...
+2026-03-30 16:09:57,919 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 16:09:57,920 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-30 16:09:57,920 [INFO] 🔍 Collecting all product URLs from FragranceNet...
+2026-03-30 16:10:03,697 [INFO] ✅ Total unique product URLs: 0
+2026-03-30 16:10:03,699 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 16:10:03,700 [INFO] 📊 Total pending products: 0
+2026-03-30 16:10:03,700 [INFO] 🏁 FragranceNet completed! Processed 0 products
+2026-03-30 16:10:03,700 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 16:10:03,703 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_161003.json
+2026-03-30 16:10:03,704 [INFO] ============================================================
+2026-03-30 16:10:03,705 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 16:10:03,705 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 16:10:03,705 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 16:10:03,705 [INFO] 📁 Data exported to: output/
+2026-03-30 16:10:03,705 [INFO] ============================================================
+2026-03-30 16:10:03,706 [INFO] 🎉 All scraping tasks completed successfully!
+2026-03-30 16:10:03,706 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 16:10:03,709 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_161003.json
+2026-03-30 16:10:03,709 [INFO] ============================================================
+2026-03-30 16:10:03,710 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 16:10:03,710 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 16:10:03,710 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 16:10:03,710 [INFO] 📁 Data exported to: output/
+2026-03-30 16:10:03,710 [INFO] ============================================================
+2026-03-30 16:10:03,711 [INFO] 🏁 Scraping operation completed!
+2026-03-30 16:36:11,949 [INFO] 🚀 Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 16:36:11,950 [INFO] 📁 Output directory: output
+2026-03-30 16:36:11,950 [INFO] 📊 Starting iteration 1
+2026-03-30 16:36:11,950 [INFO] 🌐 Crawling Fragrantica...
+2026-03-30 16:36:11,950 [INFO] 🚀 Starting Fragrantica full crawl...
+2026-03-30 16:36:11,950 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 16:36:11,950 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 16:36:11,950 [INFO] 🔍 Collecting all perfume URLs from Fragrantica...
+2026-03-30 16:36:11,950 [INFO] 🔍 Collecting all brand URLs from Fragrantica...
+2026-03-30 16:36:18,201 [INFO] ✅ Found 0 unique brands
+2026-03-30 16:36:18,201 [INFO] ✅ Total unique perfume URLs collected: 0
+2026-03-30 16:36:18,202 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 16:36:18,202 [INFO] 📊 Total pending perfumes: 0
+2026-03-30 16:36:18,202 [INFO] 🏁 Fragrantica completed! Processed 0 perfumes
+2026-03-30 16:36:18,202 [INFO] 🌐 Crawling FragranceNet...
+2026-03-30 16:36:18,203 [INFO] 🚀 Starting FragranceNet full crawl...
+2026-03-30 16:36:18,203 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 16:36:18,203 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-30 16:36:18,203 [INFO] 🔍 Collecting all product URLs from FragranceNet...
+2026-03-30 16:36:18,203 [INFO] Collecting page 1 from: https://www.fragrancenet.com/perfume/women-perfume
+2026-03-30 16:36:24,457 [WARNING] HTTP 404 for https://www.fragrancenet.com/perfume/women-perfume
+2026-03-30 16:36:24,458 [INFO] Collecting page 1 from: https://www.fragrancenet.com/perfume/men-cologne
+2026-03-30 16:36:31,153 [WARNING] HTTP 404 for https://www.fragrancenet.com/perfume/men-cologne
+2026-03-30 16:36:31,153 [INFO] Collecting page 1 from: https://www.fragrancenet.com/perfume/unisex-perfume
+2026-03-30 16:36:39,661 [WARNING] HTTP 404 for https://www.fragrancenet.com/perfume/unisex-perfume
+2026-03-30 16:36:39,661 [INFO] ✅ Total unique product URLs: 0
+2026-03-30 16:36:39,662 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 16:36:39,663 [INFO] 📊 Total pending products: 0
+2026-03-30 16:36:39,663 [INFO] 🏁 FragranceNet completed! Processed 0 products
+2026-03-30 16:36:39,663 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 16:36:39,666 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_163639.json
+2026-03-30 16:36:39,666 [INFO] ============================================================
+2026-03-30 16:36:39,667 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 16:36:39,667 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 16:36:39,667 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 16:36:39,667 [INFO] 📁 Data exported to: output/
+2026-03-30 16:36:39,667 [INFO] ============================================================
+2026-03-30 16:36:39,668 [INFO] 🎉 All scraping tasks completed successfully!
+2026-03-30 16:36:39,668 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 16:36:39,670 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_163639.json
+2026-03-30 16:36:39,671 [INFO] ============================================================
+2026-03-30 16:36:39,671 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 16:36:39,671 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 16:36:39,671 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 16:36:39,671 [INFO] 📁 Data exported to: output/
+2026-03-30 16:36:39,672 [INFO] ============================================================
+2026-03-30 16:36:39,672 [INFO] 🏁 Scraping operation completed!
+2026-03-30 16:56:47,155 [INFO] 🚀 Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 16:56:47,155 [INFO] 📁 Output directory: output
+2026-03-30 16:56:47,155 [INFO] 📊 Starting iteration 1
+2026-03-30 16:56:47,155 [INFO] 🌐 Crawling Fragrantica...
+2026-03-30 16:56:47,155 [INFO] 🚀 Starting Fragrantica full crawl...
+2026-03-30 16:56:47,155 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 16:56:47,156 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 16:56:47,156 [INFO] 🔍 Collecting all perfume URLs from Fragrantica...
+2026-03-30 16:56:47,156 [INFO] 🔍 Collecting all brand URLs from Fragrantica...
+2026-03-30 16:56:54,743 [INFO] ✅ Found 0 unique brands
+2026-03-30 16:56:54,744 [INFO] ✅ Total unique perfume URLs collected: 0
+2026-03-30 16:56:54,745 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 16:56:54,746 [INFO] 📊 Total pending perfumes: 0
+2026-03-30 16:56:54,746 [INFO] 🏁 Fragrantica completed! Processed 0 perfumes
+2026-03-30 16:56:54,746 [INFO] 🌐 Crawling FragranceNet...
+2026-03-30 16:56:54,746 [INFO] 🚀 Starting FragranceNet full crawl...
+2026-03-30 16:56:54,747 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 16:56:54,747 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-30 16:56:54,747 [INFO] 🔍 Collecting all product URLs from FragranceNet...
+2026-03-30 16:56:54,748 [INFO] Collecting page 1 from: https://www.fragrancenet.com/perfume/women-perfume
+2026-03-30 16:56:59,580 [WARNING] HTTP 404 for https://www.fragrancenet.com/perfume/women-perfume
+2026-03-30 16:56:59,580 [INFO] Collecting page 1 from: https://www.fragrancenet.com/perfume/men-cologne
+2026-03-30 16:57:08,330 [WARNING] HTTP 404 for https://www.fragrancenet.com/perfume/men-cologne
+2026-03-30 16:57:08,330 [INFO] Collecting page 1 from: https://www.fragrancenet.com/perfume/unisex-perfume
+2026-03-30 16:57:16,217 [WARNING] HTTP 404 for https://www.fragrancenet.com/perfume/unisex-perfume
+2026-03-30 16:57:16,217 [INFO] ✅ Total unique product URLs: 0
+2026-03-30 16:57:16,218 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 16:57:16,219 [INFO] 📊 Total pending products: 0
+2026-03-30 16:57:16,220 [INFO] 🏁 FragranceNet completed! Processed 0 products
+2026-03-30 16:57:16,220 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 16:57:16,223 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_165716.json
+2026-03-30 16:57:16,224 [INFO] ============================================================
+2026-03-30 16:57:16,224 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 16:57:16,224 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 16:57:16,224 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 16:57:16,224 [INFO] 📁 Data exported to: output/
+2026-03-30 16:57:16,225 [INFO] ============================================================
+2026-03-30 16:57:16,225 [INFO] 🎉 All scraping tasks completed successfully!
+2026-03-30 16:57:16,225 [INFO] 📦 Exporting data to JSON files...
+2026-03-30 16:57:16,228 [INFO] ✅ Exported combined data to output\all_perfumes_data_20260330_165716.json
+2026-03-30 16:57:16,228 [INFO] ============================================================
+2026-03-30 16:57:16,229 [INFO] 📊 FINAL STATISTICS:
+2026-03-30 16:57:16,229 [INFO] ✅ Fragrantica: 0 perfumes
+2026-03-30 16:57:16,229 [INFO] ✅ FragranceNet: 0 products
+2026-03-30 16:57:16,229 [INFO] 📁 Data exported to: output/
+2026-03-30 16:57:16,229 [INFO] ============================================================
+2026-03-30 16:57:16,230 [INFO] 🏁 Scraping operation completed!
+2026-03-30 17:05:30,222 [INFO] Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 17:05:30,222 [INFO] Output directory: output
+2026-03-30 17:05:30,222 [INFO] Starting iteration 1
+2026-03-30 17:05:30,222 [INFO] Crawling Fragrantica...
+2026-03-30 17:05:30,223 [INFO] Starting Fragrantica full crawl...
+2026-03-30 17:05:30,223 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 17:05:30,223 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 17:05:30,223 [INFO] Collecting all perfume URLs from Fragrantica...
+2026-03-30 17:05:30,223 [INFO] Collecting all brand URLs from Fragrantica...
+2026-03-30 17:05:30,223 [INFO] Trying brand source: https://www.fragrantica.com/brands/
+2026-03-30 17:05:38,903 [WARNING] Blocked or missing https://www.fragrantica.com/brands/, status: 404
+2026-03-30 17:05:38,903 [INFO] Trying brand source: https://www.fragrantica.com/browse/
+2026-03-30 17:05:43,427 [WARNING] Blocked or missing https://www.fragrantica.com/browse/, status: 404
+2026-03-30 17:05:43,427 [INFO] Trying brand source: https://www.fragrantica.com/designers/
+2026-03-30 17:05:46,606 [INFO] Trying brand source: https://www.fragrantica.com/index.php?show=brands
+2026-03-30 17:05:51,801 [INFO] Found 0 unique brands
+2026-03-30 17:05:51,801 [INFO] No brands found, trying direct perfume discovery...
+2026-03-30 17:05:55,338 [WARNING] Blocked or missing https://www.fragrantica.com/perfume/, status: 404
+2026-03-30 17:05:55,339 [INFO] Total unique perfume URLs collected: 0
+2026-03-30 17:05:55,340 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 17:05:55,341 [INFO] Total pending perfumes: 0
+2026-03-30 17:05:55,342 [INFO] Fragrantica completed! Processed 0 perfumes
+2026-03-30 17:05:55,343 [INFO] Crawling FragranceNet...
+2026-03-30 17:05:55,343 [INFO] Starting FragranceNet full crawl...
+2026-03-30 17:05:55,344 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 17:05:55,345 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-30 17:05:55,345 [INFO] Collecting all product URLs from FragranceNet...
+2026-03-30 17:05:55,345 [INFO] Collecting page 1 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:01,216 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women, status: 404
+2026-03-30 17:06:01,216 [INFO] Collecting page 2 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:04,869 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=2, status: 404
+2026-03-30 17:06:04,869 [INFO] Collecting page 3 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:08,732 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=3, status: 404
+2026-03-30 17:06:08,733 [INFO] Collecting page 4 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:12,105 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=4, status: 404
+2026-03-30 17:06:12,105 [INFO] Collecting page 5 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:14,880 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=5, status: 404
+2026-03-30 17:06:14,880 [INFO] Collecting page 6 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:19,438 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=6, status: 404
+2026-03-30 17:06:19,438 [INFO] Collecting page 7 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:23,139 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=7, status: 404
+2026-03-30 17:06:23,139 [INFO] Collecting page 8 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:30,164 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=8, status: 404
+2026-03-30 17:06:30,165 [INFO] Collecting page 9 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:35,079 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=9, status: 404
+2026-03-30 17:06:35,081 [INFO] Collecting page 10 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:37,669 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=10, status: 404
+2026-03-30 17:06:37,669 [INFO] Collecting page 11 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:41,556 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=11, status: 404
+2026-03-30 17:06:41,556 [INFO] Collecting page 12 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:44,927 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=12, status: 404
+2026-03-30 17:06:44,928 [INFO] Collecting page 13 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:49,554 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=13, status: 404
+2026-03-30 17:06:49,555 [INFO] Collecting page 14 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:52,822 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=14, status: 404
+2026-03-30 17:06:52,823 [INFO] Collecting page 15 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:06:58,643 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=15, status: 404
+2026-03-30 17:06:58,644 [INFO] Collecting page 16 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:03,687 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=16, status: 404
+2026-03-30 17:07:03,688 [INFO] Collecting page 17 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:08,931 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=17, status: 404
+2026-03-30 17:07:08,931 [INFO] Collecting page 18 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:13,788 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=18, status: 404
+2026-03-30 17:07:13,789 [INFO] Collecting page 19 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:18,924 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=19, status: 404
+2026-03-30 17:07:18,924 [INFO] Collecting page 20 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:24,301 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=20, status: 404
+2026-03-30 17:07:24,302 [INFO] Collecting page 21 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:27,613 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=21, status: 404
+2026-03-30 17:07:27,613 [INFO] Collecting page 22 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:31,597 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=22, status: 404
+2026-03-30 17:07:31,598 [INFO] Collecting page 23 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:34,677 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=23, status: 404
+2026-03-30 17:07:34,678 [INFO] Collecting page 24 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:38,066 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=24, status: 404
+2026-03-30 17:07:38,066 [INFO] Collecting page 25 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:42,259 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=25, status: 404
+2026-03-30 17:07:42,260 [INFO] Collecting page 26 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:45,334 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=26, status: 404
+2026-03-30 17:07:45,335 [INFO] Collecting page 27 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:48,496 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=27, status: 404
+2026-03-30 17:07:48,496 [INFO] Collecting page 28 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:53,336 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=28, status: 404
+2026-03-30 17:07:53,337 [INFO] Collecting page 29 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:07:56,936 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=29, status: 404
+2026-03-30 17:07:56,936 [INFO] Collecting page 30 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:08:02,537 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=30, status: 404
+2026-03-30 17:08:02,538 [INFO] Collecting page 1 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:06,341 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men, status: 404
+2026-03-30 17:08:06,341 [INFO] Collecting page 2 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:09,697 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=2, status: 404
+2026-03-30 17:08:09,697 [INFO] Collecting page 3 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:12,697 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=3, status: 404
+2026-03-30 17:08:12,698 [INFO] Collecting page 4 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:17,986 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=4, status: 404
+2026-03-30 17:08:17,986 [INFO] Collecting page 5 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:21,485 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=5, status: 404
+2026-03-30 17:08:21,486 [INFO] Collecting page 6 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:27,223 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=6, status: 404
+2026-03-30 17:08:27,223 [INFO] Collecting page 7 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:32,430 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=7, status: 404
+2026-03-30 17:08:32,431 [INFO] Collecting page 8 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:37,914 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=8, status: 404
+2026-03-30 17:08:37,915 [INFO] Collecting page 9 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:43,534 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=9, status: 404
+2026-03-30 17:08:43,534 [INFO] Collecting page 10 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:46,555 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=10, status: 404
+2026-03-30 17:08:46,556 [INFO] Collecting page 11 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:51,364 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=11, status: 404
+2026-03-30 17:08:51,365 [INFO] Collecting page 12 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:08:56,969 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=12, status: 404
+2026-03-30 17:08:56,970 [INFO] Collecting page 13 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:02,638 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=13, status: 404
+2026-03-30 17:09:02,638 [INFO] Collecting page 14 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:08,445 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=14, status: 404
+2026-03-30 17:09:08,446 [INFO] Collecting page 15 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:12,196 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=15, status: 404
+2026-03-30 17:09:12,196 [INFO] Collecting page 16 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:17,094 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=16, status: 404
+2026-03-30 17:09:17,094 [INFO] Collecting page 17 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:21,148 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=17, status: 404
+2026-03-30 17:09:21,149 [INFO] Collecting page 18 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:24,798 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=18, status: 404
+2026-03-30 17:09:24,799 [INFO] Collecting page 19 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:27,747 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=19, status: 404
+2026-03-30 17:09:27,747 [INFO] Collecting page 20 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:27,748 [INFO] Taking extended break: 17.6s
+2026-03-30 17:09:46,871 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=20, status: 404
+2026-03-30 17:09:46,871 [INFO] Collecting page 21 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:49,835 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=21, status: 404
+2026-03-30 17:09:49,835 [INFO] Collecting page 22 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:54,250 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=22, status: 404
+2026-03-30 17:09:54,250 [INFO] Collecting page 23 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:09:57,007 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=23, status: 404
+2026-03-30 17:09:57,007 [INFO] Collecting page 24 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:10:01,317 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=24, status: 404
+2026-03-30 17:10:01,318 [INFO] Collecting page 25 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:10:06,966 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=25, status: 404
+2026-03-30 17:10:06,967 [INFO] Collecting page 26 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:10:11,530 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=26, status: 404
+2026-03-30 17:10:11,530 [INFO] Collecting page 27 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:10:14,953 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=27, status: 404
+2026-03-30 17:10:14,954 [INFO] Collecting page 28 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:10:19,854 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=28, status: 404
+2026-03-30 17:10:19,854 [INFO] Collecting page 29 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:10:23,882 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=29, status: 404
+2026-03-30 17:10:23,883 [INFO] Collecting page 30 from: https://www.fragrancenet.com/fragrance/men
+2026-03-30 17:10:26,702 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/men?page=30, status: 404
+2026-03-30 17:10:26,702 [INFO] Collecting page 1 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:10:29,986 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex, status: 404
+2026-03-30 17:10:29,986 [INFO] Collecting page 2 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:10:34,402 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=2, status: 404
+2026-03-30 17:10:34,403 [INFO] Collecting page 3 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:10:37,861 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=3, status: 404
+2026-03-30 17:10:37,861 [INFO] Collecting page 4 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:10:41,652 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=4, status: 404
+2026-03-30 17:10:41,652 [INFO] Collecting page 5 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:10:44,346 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=5, status: 404
+2026-03-30 17:10:44,347 [INFO] Collecting page 6 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:10:48,842 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=6, status: 404
+2026-03-30 17:10:48,843 [INFO] Collecting page 7 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:10:53,632 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=7, status: 404
+2026-03-30 17:10:53,632 [INFO] Collecting page 8 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:10:58,051 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=8, status: 404
+2026-03-30 17:10:58,051 [INFO] Collecting page 9 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:01,805 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=9, status: 404
+2026-03-30 17:11:01,806 [INFO] Collecting page 10 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:06,385 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=10, status: 404
+2026-03-30 17:11:06,385 [INFO] Collecting page 11 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:09,835 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=11, status: 404
+2026-03-30 17:11:09,835 [INFO] Collecting page 12 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:13,529 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=12, status: 404
+2026-03-30 17:11:13,530 [INFO] Collecting page 13 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:17,392 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=13, status: 404
+2026-03-30 17:11:17,393 [INFO] Collecting page 14 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:20,859 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=14, status: 404
+2026-03-30 17:11:20,860 [INFO] Collecting page 15 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:24,200 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=15, status: 404
+2026-03-30 17:11:24,200 [INFO] Collecting page 16 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:27,035 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=16, status: 404
+2026-03-30 17:11:27,036 [INFO] Collecting page 17 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:30,878 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=17, status: 404
+2026-03-30 17:11:30,878 [INFO] Collecting page 18 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:35,880 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=18, status: 404
+2026-03-30 17:11:35,881 [INFO] Collecting page 19 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:39,758 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=19, status: 404
+2026-03-30 17:11:39,759 [INFO] Collecting page 20 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:44,178 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=20, status: 404
+2026-03-30 17:11:44,178 [INFO] Collecting page 21 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:48,257 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=21, status: 404
+2026-03-30 17:11:48,257 [INFO] Collecting page 22 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:51,229 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=22, status: 404
+2026-03-30 17:11:51,229 [INFO] Collecting page 23 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:11:57,207 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=23, status: 404
+2026-03-30 17:11:57,207 [INFO] Collecting page 24 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:12:02,990 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=24, status: 404
+2026-03-30 17:12:02,991 [INFO] Collecting page 25 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:12:08,201 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=25, status: 404
+2026-03-30 17:12:08,201 [INFO] Collecting page 26 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:12:12,046 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=26, status: 404
+2026-03-30 17:12:12,046 [INFO] Collecting page 27 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:12:15,349 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=27, status: 404
+2026-03-30 17:12:15,350 [INFO] Collecting page 28 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:12:20,077 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=28, status: 404
+2026-03-30 17:12:20,077 [INFO] Collecting page 29 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:12:24,753 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=29, status: 404
+2026-03-30 17:12:24,753 [INFO] Collecting page 30 from: https://www.fragrancenet.com/fragrance/unisex
+2026-03-30 17:12:29,957 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/unisex?page=30, status: 404
+2026-03-30 17:12:29,958 [INFO] Collecting page 1 from: https://www.fragrancenet.com/perfume
+2026-03-30 17:12:34,837 [INFO] Found 0 products on page 1
+2026-03-30 17:12:34,901 [INFO] Collecting page 1 from: https://www.fragrancenet.com/cologne
+2026-03-30 17:12:39,499 [INFO] Found 0 products on page 1
+2026-03-30 17:12:39,501 [INFO] Collecting page 1 from: https://www.fragrancenet.com/browse
+2026-03-30 17:12:44,024 [WARNING] Blocked or missing https://www.fragrancenet.com/browse, status: 404
+2026-03-30 17:12:44,024 [INFO] Collecting page 2 from: https://www.fragrancenet.com/browse
+2026-03-30 17:12:48,698 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=2, status: 404
+2026-03-30 17:12:48,699 [INFO] Collecting page 3 from: https://www.fragrancenet.com/browse
+2026-03-30 17:12:54,583 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=3, status: 404
+2026-03-30 17:12:54,583 [INFO] Collecting page 4 from: https://www.fragrancenet.com/browse
+2026-03-30 17:12:59,853 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=4, status: 404
+2026-03-30 17:12:59,854 [INFO] Collecting page 5 from: https://www.fragrancenet.com/browse
+2026-03-30 17:13:03,475 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=5, status: 404
+2026-03-30 17:13:03,475 [INFO] Collecting page 6 from: https://www.fragrancenet.com/browse
+2026-03-30 17:13:08,624 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=6, status: 404
+2026-03-30 17:13:08,625 [INFO] Collecting page 7 from: https://www.fragrancenet.com/browse
+2026-03-30 17:13:15,219 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=7, status: 404
+2026-03-30 17:13:15,219 [INFO] Collecting page 8 from: https://www.fragrancenet.com/browse
+2026-03-30 17:13:15,219 [INFO] Taking extended break: 18.5s
+2026-03-30 17:13:34,629 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=8, status: 404
+2026-03-30 17:13:34,629 [INFO] Collecting page 9 from: https://www.fragrancenet.com/browse
+2026-03-30 17:13:40,405 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=9, status: 404
+2026-03-30 17:13:40,405 [INFO] Collecting page 10 from: https://www.fragrancenet.com/browse
+2026-03-30 17:13:43,676 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=10, status: 404
+2026-03-30 17:13:43,677 [INFO] Collecting page 11 from: https://www.fragrancenet.com/browse
+2026-03-30 17:13:47,015 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=11, status: 404
+2026-03-30 17:13:47,015 [INFO] Collecting page 12 from: https://www.fragrancenet.com/browse
+2026-03-30 17:13:50,005 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=12, status: 404
+2026-03-30 17:13:50,005 [INFO] Collecting page 13 from: https://www.fragrancenet.com/browse
+2026-03-30 17:13:56,024 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=13, status: 404
+2026-03-30 17:13:56,025 [INFO] Collecting page 14 from: https://www.fragrancenet.com/browse
+2026-03-30 17:14:01,743 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=14, status: 404
+2026-03-30 17:14:01,743 [INFO] Collecting page 15 from: https://www.fragrancenet.com/browse
+2026-03-30 17:14:02,262 [INFO] Received stop signal. Saving progress and exiting gracefully...
+2026-03-30 17:14:04,947 [WARNING] Blocked or missing https://www.fragrancenet.com/browse?page=15, status: 404
+2026-03-30 17:14:04,948 [INFO] Collecting page 16 from: https://www.fragrancenet.com/browse
+2026-03-30 17:40:01,408 [INFO] Starting scraping operation for 7 days (until 2026-04-06)
+2026-03-30 17:40:01,408 [INFO] Output directory: output
+2026-03-30 17:40:01,408 [INFO] Starting iteration 1
+2026-03-30 17:40:01,408 [INFO] Crawling Fragrantica...
+2026-03-30 17:40:01,408 [INFO] Starting Fragrantica full crawl...
+2026-03-30 17:40:01,409 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 17:40:01,409 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-30 17:40:01,409 [INFO] Collecting perfume URLs using search pages...
+2026-03-30 17:40:01,409 [INFO] Scraping search page 1: https://www.fragrantica.com/search/?q=&page=1
+2026-03-30 17:40:10,460 [INFO] Found 0 perfumes on page 1
+2026-03-30 17:40:10,460 [INFO] No more perfumes found, stopping pagination.
+2026-03-30 17:40:10,460 [ERROR] No perfume URLs collected. Check blocking or selectors.
+2026-03-30 17:40:10,460 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-30 17:40:10,461 [ERROR] Still no URLs after collection. Stopping.
+2026-03-30 17:40:10,461 [INFO] Crawling FragranceNet...
+2026-03-30 17:40:10,461 [INFO] Starting FragranceNet full crawl...
+2026-03-30 17:40:10,461 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-30 17:40:10,461 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-30 17:40:10,461 [INFO] Collecting all product URLs from FragranceNet...
+2026-03-30 17:40:10,461 [INFO] Collecting page 1 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:40:23,204 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women, status: 404
+2026-03-30 17:40:23,204 [INFO] Collecting page 2 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:40:29,860 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=2, status: 404
+2026-03-30 17:40:29,860 [INFO] Collecting page 3 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:40:39,034 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=3, status: 404
+2026-03-30 17:40:39,035 [INFO] Collecting page 4 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:40:50,750 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=4, status: 404
+2026-03-30 17:40:50,751 [INFO] Collecting page 5 from: https://www.fragrancenet.com/fragrance/women
+2026-03-30 17:40:57,273 [INFO] Received stop signal. Saving progress and exiting gracefully...
+2026-03-30 17:41:03,267 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=5, status: 404
+2026-03-30 17:41:03,268 [INFO] Collecting page 6 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:08:09,646 [INFO] Starting scraping operation for 7 days (until 2026-04-07)
+2026-03-31 11:08:09,647 [INFO] Output directory: output
+2026-03-31 11:08:09,647 [INFO] Starting iteration 1
+2026-03-31 11:08:09,648 [INFO] Crawling Fragrantica...
+2026-03-31 11:08:09,648 [INFO] Starting Fragrantica full crawl...
+2026-03-31 11:08:09,650 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-31 11:08:09,651 [INFO] No pending URLs found. Collecting all perfume URLs first...
+2026-03-31 11:08:09,652 [INFO] Collecting perfume URLs using search pages...
+2026-03-31 11:08:09,652 [INFO] Scraping search page 1: https://www.fragrantica.com/search/?q=&page=1
+2026-03-31 11:08:21,143 [INFO] Found 0 perfumes on page 1
+2026-03-31 11:08:21,143 [INFO] No more perfumes found, stopping pagination.
+2026-03-31 11:08:21,143 [ERROR] No perfume URLs collected. Check blocking or selectors.
+2026-03-31 11:08:21,144 [INFO] Initialized 0 pending URLs for fragrantica
+2026-03-31 11:08:21,144 [ERROR] Still no URLs after collection. Stopping.
+2026-03-31 11:08:21,144 [INFO] Crawling FragranceNet...
+2026-03-31 11:08:21,144 [INFO] Starting FragranceNet full crawl...
+2026-03-31 11:08:21,145 [INFO] Initialized 0 pending URLs for fragrancenet
+2026-03-31 11:08:21,145 [INFO] No pending URLs found. Collecting all product URLs first...
+2026-03-31 11:08:21,145 [INFO] Collecting all product URLs from FragranceNet...
+2026-03-31 11:08:21,145 [INFO] Collecting page 1 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:08:29,705 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women, status: 404
+2026-03-31 11:08:29,705 [INFO] Collecting page 2 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:08:38,730 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=2, status: 404
+2026-03-31 11:08:38,730 [INFO] Collecting page 3 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:08:50,158 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=3, status: 404
+2026-03-31 11:08:50,159 [INFO] Collecting page 4 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:09:00,854 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=4, status: 404
+2026-03-31 11:09:00,854 [INFO] Collecting page 5 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:09:07,332 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=5, status: 404
+2026-03-31 11:09:07,333 [INFO] Collecting page 6 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:09:19,571 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=6, status: 404
+2026-03-31 11:09:19,571 [INFO] Collecting page 7 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:09:25,902 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=7, status: 404
+2026-03-31 11:09:25,902 [INFO] Collecting page 8 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:09:36,420 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=8, status: 404
+2026-03-31 11:09:36,421 [INFO] Collecting page 9 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:09:43,871 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=9, status: 404
+2026-03-31 11:09:43,871 [INFO] Collecting page 10 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:09:51,427 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=10, status: 404
+2026-03-31 11:09:51,427 [INFO] Collecting page 11 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:10:03,528 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=11, status: 404
+2026-03-31 11:10:03,529 [INFO] Collecting page 12 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:10:13,566 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=12, status: 404
+2026-03-31 11:10:13,567 [INFO] Collecting page 13 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:10:20,546 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=13, status: 404
+2026-03-31 11:10:20,546 [INFO] Collecting page 14 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:10:31,746 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=14, status: 404
+2026-03-31 11:10:31,746 [INFO] Collecting page 15 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:10:44,224 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=15, status: 404
+2026-03-31 11:10:44,224 [INFO] Collecting page 16 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:10:46,170 [INFO] Received stop signal. Saving progress and exiting gracefully...
+2026-03-31 11:10:53,375 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=16, status: 404
+2026-03-31 11:10:53,375 [INFO] Collecting page 17 from: https://www.fragrancenet.com/fragrance/women
+2026-03-31 11:11:01,731 [WARNING] Blocked or missing https://www.fragrancenet.com/fragrance/women?page=17, status: 404
+2026-03-31 11:11:01,732 [INFO] Collecting page 18 from: https://www.fragrancenet.com/fragrance/women
+{"timestamp": "2026-04-01T09:47:10.368681", "level": "WARNING", "message": "Proxies file not found", "filepath": "proxies.txt"}
+{"timestamp": "2026-04-01T09:47:10.369437", "level": "INFO", "message": "Using fallback static UserAgents"}
+{"timestamp": "2026-04-01T09:47:10.926162", "level": "INFO", "message": "Starting scraping operation", "days": 7, "until": "2026-04-08"}
+{"timestamp": "2026-04-01T09:47:10.926403", "level": "INFO", "message": "Starting iteration", "iteration": 1}
+{"timestamp": "2026-04-01T09:47:10.926545", "level": "INFO", "message": "Crawling Fragrantica"}
+{"timestamp": "2026-04-01T09:47:10.926675", "level": "INFO", "message": "Starting Fragrantica full crawl"}
+{"timestamp": "2026-04-01T09:47:10.927199", "level": "INFO", "message": "Initialized pending URLs", "source": "fragrantica", "count": 0}
+{"timestamp": "2026-04-01T09:47:10.927610", "level": "INFO", "message": "No pending URLs found. Collecting all perfume URLs first."}
+{"timestamp": "2026-04-01T09:47:10.927783", "level": "INFO", "message": "Collecting perfume URLs using search pages"}
+{"timestamp": "2026-04-01T09:47:10.927917", "level": "INFO", "message": "Scraping search page", "page": 1, "url": "https://www.fragrantica.com/search/?q=&page=1"}
+{"timestamp": "2026-04-01T09:47:14.263840", "level": "INFO", "message": "Perfumes found on page", "page": 1, "count": 0}
+{"timestamp": "2026-04-01T09:47:14.264104", "level": "INFO", "message": "No more perfumes found, stopping pagination"}
+{"timestamp": "2026-04-01T09:47:14.264281", "level": "ERROR", "message": "No perfume URLs collected. Check blocking or selectors."}
+{"timestamp": "2026-04-01T09:47:14.264907", "level": "INFO", "message": "Initialized pending URLs", "source": "fragrantica", "count": 0}
+{"timestamp": "2026-04-01T09:47:14.265344", "level": "ERROR", "message": "Still no URLs after collection. Stopping."}
+{"timestamp": "2026-04-01T09:47:14.265516", "level": "INFO", "message": "Crawling FragranceNet"}
+{"timestamp": "2026-04-01T09:47:14.265653", "level": "INFO", "message": "Starting FragranceNet full crawl"}
+{"timestamp": "2026-04-01T09:47:14.265991", "level": "INFO", "message": "Initialized pending URLs", "source": "fragrancenet", "count": 0}
+{"timestamp": "2026-04-01T09:47:14.266379", "level": "INFO", "message": "No pending URLs found. Collecting all product URLs first."}
+{"timestamp": "2026-04-01T09:47:14.266537", "level": "INFO", "message": "Collecting all product URLs from FragranceNet"}
+{"timestamp": "2026-04-01T09:47:14.266674", "level": "INFO", "message": "Collecting catalog page", "page": 1, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.911132", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.911403", "level": "INFO", "message": "Collecting catalog page", "page": 2, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.911570", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=2"}
+{"timestamp": "2026-04-01T09:47:14.911693", "level": "INFO", "message": "Collecting catalog page", "page": 3, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.911827", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=3"}
+{"timestamp": "2026-04-01T09:47:14.911939", "level": "INFO", "message": "Collecting catalog page", "page": 4, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.912070", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=4"}
+{"timestamp": "2026-04-01T09:47:14.912180", "level": "INFO", "message": "Collecting catalog page", "page": 5, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.912307", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=5"}
+{"timestamp": "2026-04-01T09:47:14.912412", "level": "INFO", "message": "Collecting catalog page", "page": 6, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.912533", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=6"}
+{"timestamp": "2026-04-01T09:47:14.912635", "level": "INFO", "message": "Collecting catalog page", "page": 7, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.912754", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=7"}
+{"timestamp": "2026-04-01T09:47:14.912854", "level": "INFO", "message": "Collecting catalog page", "page": 8, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.912973", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=8"}
+{"timestamp": "2026-04-01T09:47:14.913072", "level": "INFO", "message": "Collecting catalog page", "page": 9, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.913188", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=9"}
+{"timestamp": "2026-04-01T09:47:14.913430", "level": "INFO", "message": "Collecting catalog page", "page": 10, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.913765", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=10"}
+{"timestamp": "2026-04-01T09:47:14.913937", "level": "INFO", "message": "Collecting catalog page", "page": 11, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.914090", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=11"}
+{"timestamp": "2026-04-01T09:47:14.914742", "level": "INFO", "message": "Collecting catalog page", "page": 12, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.914955", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=12"}
+{"timestamp": "2026-04-01T09:47:14.915079", "level": "INFO", "message": "Collecting catalog page", "page": 13, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.915196", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=13"}
+{"timestamp": "2026-04-01T09:47:14.915292", "level": "INFO", "message": "Collecting catalog page", "page": 14, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.915398", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=14"}
+{"timestamp": "2026-04-01T09:47:14.915487", "level": "INFO", "message": "Collecting catalog page", "page": 15, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.915589", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=15"}
+{"timestamp": "2026-04-01T09:47:14.915700", "level": "INFO", "message": "Collecting catalog page", "page": 16, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.915865", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=16"}
+{"timestamp": "2026-04-01T09:47:14.915965", "level": "INFO", "message": "Collecting catalog page", "page": 17, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.916085", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=17"}
+{"timestamp": "2026-04-01T09:47:14.916180", "level": "INFO", "message": "Collecting catalog page", "page": 18, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.916282", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=18"}
+{"timestamp": "2026-04-01T09:47:14.916368", "level": "INFO", "message": "Collecting catalog page", "page": 19, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.916468", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=19"}
+{"timestamp": "2026-04-01T09:47:14.916554", "level": "INFO", "message": "Collecting catalog page", "page": 20, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.916652", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=20"}
+{"timestamp": "2026-04-01T09:47:14.916736", "level": "INFO", "message": "Collecting catalog page", "page": 21, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.916874", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=21"}
+{"timestamp": "2026-04-01T09:47:14.916983", "level": "INFO", "message": "Collecting catalog page", "page": 22, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.917166", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=22"}
+{"timestamp": "2026-04-01T09:47:14.917259", "level": "INFO", "message": "Collecting catalog page", "page": 23, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.917359", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=23"}
+{"timestamp": "2026-04-01T09:47:14.917443", "level": "INFO", "message": "Collecting catalog page", "page": 24, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.917540", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=24"}
+{"timestamp": "2026-04-01T09:47:14.917623", "level": "INFO", "message": "Collecting catalog page", "page": 25, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.917719", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=25"}
+{"timestamp": "2026-04-01T09:47:14.917813", "level": "INFO", "message": "Collecting catalog page", "page": 26, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.917989", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=26"}
+{"timestamp": "2026-04-01T09:47:14.918097", "level": "INFO", "message": "Collecting catalog page", "page": 27, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.918193", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=27"}
+{"timestamp": "2026-04-01T09:47:14.918275", "level": "INFO", "message": "Collecting catalog page", "page": 28, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.918370", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=28"}
+{"timestamp": "2026-04-01T09:47:14.918451", "level": "INFO", "message": "Collecting catalog page", "page": 29, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.918546", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=29"}
+{"timestamp": "2026-04-01T09:47:14.918627", "level": "INFO", "message": "Collecting catalog page", "page": 30, "catalog": "https://www.fragrancenet.com/fragrance/women"}
+{"timestamp": "2026-04-01T09:47:14.918721", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/women?page=30"}
+{"timestamp": "2026-04-01T09:47:14.918816", "level": "INFO", "message": "Collecting catalog page", "page": 1, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.918917", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.919013", "level": "INFO", "message": "Collecting catalog page", "page": 2, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.919171", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=2"}
+{"timestamp": "2026-04-01T09:47:14.919252", "level": "INFO", "message": "Collecting catalog page", "page": 3, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.919345", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=3"}
+{"timestamp": "2026-04-01T09:47:14.919425", "level": "INFO", "message": "Collecting catalog page", "page": 4, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.919518", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=4"}
+{"timestamp": "2026-04-01T09:47:14.919655", "level": "INFO", "message": "Collecting catalog page", "page": 5, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.919761", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=5"}
+{"timestamp": "2026-04-01T09:47:14.919909", "level": "INFO", "message": "Collecting catalog page", "page": 6, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.920143", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=6"}
+{"timestamp": "2026-04-01T09:47:14.920247", "level": "INFO", "message": "Collecting catalog page", "page": 7, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.920343", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=7"}
+{"timestamp": "2026-04-01T09:47:14.920423", "level": "INFO", "message": "Collecting catalog page", "page": 8, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.920516", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=8"}
+{"timestamp": "2026-04-01T09:47:14.920596", "level": "INFO", "message": "Collecting catalog page", "page": 9, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.920689", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=9"}
+{"timestamp": "2026-04-01T09:47:14.920769", "level": "INFO", "message": "Collecting catalog page", "page": 10, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.920861", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=10"}
+{"timestamp": "2026-04-01T09:47:14.920969", "level": "INFO", "message": "Collecting catalog page", "page": 11, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.921143", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=11"}
+{"timestamp": "2026-04-01T09:47:14.921241", "level": "INFO", "message": "Collecting catalog page", "page": 12, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.921356", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=12"}
+{"timestamp": "2026-04-01T09:47:14.921434", "level": "INFO", "message": "Collecting catalog page", "page": 13, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.921526", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=13"}
+{"timestamp": "2026-04-01T09:47:14.921610", "level": "INFO", "message": "Collecting catalog page", "page": 14, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.921711", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=14"}
+{"timestamp": "2026-04-01T09:47:14.921799", "level": "INFO", "message": "Collecting catalog page", "page": 15, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.921927", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=15"}
+{"timestamp": "2026-04-01T09:47:14.922072", "level": "INFO", "message": "Collecting catalog page", "page": 16, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.922224", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=16"}
+{"timestamp": "2026-04-01T09:47:14.922362", "level": "INFO", "message": "Collecting catalog page", "page": 17, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.922507", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=17"}
+{"timestamp": "2026-04-01T09:47:14.922637", "level": "INFO", "message": "Collecting catalog page", "page": 18, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.922783", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=18"}
+{"timestamp": "2026-04-01T09:47:14.922895", "level": "INFO", "message": "Collecting catalog page", "page": 19, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.923108", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=19"}
+{"timestamp": "2026-04-01T09:47:14.923265", "level": "INFO", "message": "Collecting catalog page", "page": 20, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.923422", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=20"}
+{"timestamp": "2026-04-01T09:47:14.923571", "level": "INFO", "message": "Collecting catalog page", "page": 21, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.923720", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=21"}
+{"timestamp": "2026-04-01T09:47:14.923818", "level": "INFO", "message": "Collecting catalog page", "page": 22, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.923978", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=22"}
+{"timestamp": "2026-04-01T09:47:14.924139", "level": "INFO", "message": "Collecting catalog page", "page": 23, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.924301", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=23"}
+{"timestamp": "2026-04-01T09:47:14.924407", "level": "INFO", "message": "Collecting catalog page", "page": 24, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.924503", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=24"}
+{"timestamp": "2026-04-01T09:47:14.924586", "level": "INFO", "message": "Collecting catalog page", "page": 25, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.924680", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=25"}
+{"timestamp": "2026-04-01T09:47:14.924763", "level": "INFO", "message": "Collecting catalog page", "page": 26, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.924858", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=26"}
+{"timestamp": "2026-04-01T09:47:14.924983", "level": "INFO", "message": "Collecting catalog page", "page": 27, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.925173", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=27"}
+{"timestamp": "2026-04-01T09:47:14.925330", "level": "INFO", "message": "Collecting catalog page", "page": 28, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.925472", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=28"}
+{"timestamp": "2026-04-01T09:47:14.925557", "level": "INFO", "message": "Collecting catalog page", "page": 29, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.925660", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=29"}
+{"timestamp": "2026-04-01T09:47:14.925747", "level": "INFO", "message": "Collecting catalog page", "page": 30, "catalog": "https://www.fragrancenet.com/fragrance/men"}
+{"timestamp": "2026-04-01T09:47:14.925845", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/men?page=30"}
+{"timestamp": "2026-04-01T09:47:14.925930", "level": "INFO", "message": "Collecting catalog page", "page": 1, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.926027", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.926110", "level": "INFO", "message": "Collecting catalog page", "page": 2, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.926249", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=2"}
+{"timestamp": "2026-04-01T09:47:14.926373", "level": "INFO", "message": "Collecting catalog page", "page": 3, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.926495", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=3"}
+{"timestamp": "2026-04-01T09:47:14.926579", "level": "INFO", "message": "Collecting catalog page", "page": 4, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.926676", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=4"}
+{"timestamp": "2026-04-01T09:47:14.926759", "level": "INFO", "message": "Collecting catalog page", "page": 5, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.926856", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=5"}
+{"timestamp": "2026-04-01T09:47:14.926956", "level": "INFO", "message": "Collecting catalog page", "page": 6, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.927088", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=6"}
+{"timestamp": "2026-04-01T09:47:14.927174", "level": "INFO", "message": "Collecting catalog page", "page": 7, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.927279", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=7"}
+{"timestamp": "2026-04-01T09:47:14.927366", "level": "INFO", "message": "Collecting catalog page", "page": 8, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.927485", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=8"}
+{"timestamp": "2026-04-01T09:47:14.927590", "level": "INFO", "message": "Collecting catalog page", "page": 9, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.927685", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=9"}
+{"timestamp": "2026-04-01T09:47:14.927769", "level": "INFO", "message": "Collecting catalog page", "page": 10, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.927872", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=10"}
+{"timestamp": "2026-04-01T09:47:14.927956", "level": "INFO", "message": "Collecting catalog page", "page": 11, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.928060", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=11"}
+{"timestamp": "2026-04-01T09:47:14.928146", "level": "INFO", "message": "Collecting catalog page", "page": 12, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.928243", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=12"}
+{"timestamp": "2026-04-01T09:47:14.928373", "level": "INFO", "message": "Collecting catalog page", "page": 13, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.928483", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=13"}
+{"timestamp": "2026-04-01T09:47:14.928589", "level": "INFO", "message": "Collecting catalog page", "page": 14, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.928685", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=14"}
+{"timestamp": "2026-04-01T09:47:14.928768", "level": "INFO", "message": "Collecting catalog page", "page": 15, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.928864", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=15"}
+{"timestamp": "2026-04-01T09:47:14.928945", "level": "INFO", "message": "Collecting catalog page", "page": 16, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.929052", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=16"}
+{"timestamp": "2026-04-01T09:47:14.929152", "level": "INFO", "message": "Collecting catalog page", "page": 17, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.929243", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=17"}
+{"timestamp": "2026-04-01T09:47:14.929334", "level": "INFO", "message": "Collecting catalog page", "page": 18, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.929426", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=18"}
+{"timestamp": "2026-04-01T09:47:14.929506", "level": "INFO", "message": "Collecting catalog page", "page": 19, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.929636", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=19"}
+{"timestamp": "2026-04-01T09:47:14.929734", "level": "INFO", "message": "Collecting catalog page", "page": 20, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.929825", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=20"}
+{"timestamp": "2026-04-01T09:47:14.929903", "level": "INFO", "message": "Collecting catalog page", "page": 21, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.929994", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=21"}
+{"timestamp": "2026-04-01T09:47:14.930073", "level": "INFO", "message": "Collecting catalog page", "page": 22, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.930164", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=22"}
+{"timestamp": "2026-04-01T09:47:14.930242", "level": "INFO", "message": "Collecting catalog page", "page": 23, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.930704", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=23"}
+{"timestamp": "2026-04-01T09:47:14.930884", "level": "INFO", "message": "Collecting catalog page", "page": 24, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.931005", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=24"}
+{"timestamp": "2026-04-01T09:47:14.931102", "level": "INFO", "message": "Collecting catalog page", "page": 25, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.931209", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=25"}
+{"timestamp": "2026-04-01T09:47:14.931298", "level": "INFO", "message": "Collecting catalog page", "page": 26, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.931400", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=26"}
+{"timestamp": "2026-04-01T09:47:14.931486", "level": "INFO", "message": "Collecting catalog page", "page": 27, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.931609", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=27"}
+{"timestamp": "2026-04-01T09:47:14.931704", "level": "INFO", "message": "Collecting catalog page", "page": 28, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.931828", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=28"}
+{"timestamp": "2026-04-01T09:47:14.931910", "level": "INFO", "message": "Collecting catalog page", "page": 29, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.932006", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=29"}
+{"timestamp": "2026-04-01T09:47:14.932115", "level": "INFO", "message": "Collecting catalog page", "page": 30, "catalog": "https://www.fragrancenet.com/fragrance/unisex"}
+{"timestamp": "2026-04-01T09:47:14.932219", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/fragrance/unisex?page=30"}
+{"timestamp": "2026-04-01T09:47:14.932304", "level": "INFO", "message": "Collecting catalog page", "page": 1, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.932401", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.932486", "level": "INFO", "message": "Collecting catalog page", "page": 2, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.932605", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=2"}
+{"timestamp": "2026-04-01T09:47:14.932764", "level": "INFO", "message": "Collecting catalog page", "page": 3, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.932891", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=3"}
+{"timestamp": "2026-04-01T09:47:14.932983", "level": "INFO", "message": "Collecting catalog page", "page": 4, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.933091", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=4"}
+{"timestamp": "2026-04-01T09:47:14.933184", "level": "INFO", "message": "Collecting catalog page", "page": 5, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.933293", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=5"}
+{"timestamp": "2026-04-01T09:47:14.933394", "level": "INFO", "message": "Collecting catalog page", "page": 6, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.933513", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=6"}
+{"timestamp": "2026-04-01T09:47:14.933613", "level": "INFO", "message": "Collecting catalog page", "page": 7, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.933790", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=7"}
+{"timestamp": "2026-04-01T09:47:14.933937", "level": "INFO", "message": "Collecting catalog page", "page": 8, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.934119", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=8"}
+{"timestamp": "2026-04-01T09:47:14.934249", "level": "INFO", "message": "Collecting catalog page", "page": 9, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.934359", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=9"}
+{"timestamp": "2026-04-01T09:47:14.934452", "level": "INFO", "message": "Collecting catalog page", "page": 10, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.934561", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=10"}
+{"timestamp": "2026-04-01T09:47:14.934653", "level": "INFO", "message": "Collecting catalog page", "page": 11, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.934761", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=11"}
+{"timestamp": "2026-04-01T09:47:14.934869", "level": "INFO", "message": "Collecting catalog page", "page": 12, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.935000", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=12"}
+{"timestamp": "2026-04-01T09:47:14.935133", "level": "INFO", "message": "Collecting catalog page", "page": 13, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.935285", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=13"}
+{"timestamp": "2026-04-01T09:47:14.935377", "level": "INFO", "message": "Collecting catalog page", "page": 14, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.935485", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=14"}
+{"timestamp": "2026-04-01T09:47:14.935577", "level": "INFO", "message": "Collecting catalog page", "page": 15, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.935683", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=15"}
+{"timestamp": "2026-04-01T09:47:14.935774", "level": "INFO", "message": "Collecting catalog page", "page": 16, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.935880", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=16"}
+{"timestamp": "2026-04-01T09:47:14.935972", "level": "INFO", "message": "Collecting catalog page", "page": 17, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.936079", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=17"}
+{"timestamp": "2026-04-01T09:47:14.936209", "level": "INFO", "message": "Collecting catalog page", "page": 18, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.936361", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=18"}
+{"timestamp": "2026-04-01T09:47:14.936499", "level": "INFO", "message": "Collecting catalog page", "page": 19, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.936667", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=19"}
+{"timestamp": "2026-04-01T09:47:14.936767", "level": "INFO", "message": "Collecting catalog page", "page": 20, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.936877", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=20"}
+{"timestamp": "2026-04-01T09:47:14.936969", "level": "INFO", "message": "Collecting catalog page", "page": 21, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.937077", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=21"}
+{"timestamp": "2026-04-01T09:47:14.937169", "level": "INFO", "message": "Collecting catalog page", "page": 22, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.937276", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=22"}
+{"timestamp": "2026-04-01T09:47:14.937368", "level": "INFO", "message": "Collecting catalog page", "page": 23, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.937528", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=23"}
+{"timestamp": "2026-04-01T09:47:14.937656", "level": "INFO", "message": "Collecting catalog page", "page": 24, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.937810", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=24"}
+{"timestamp": "2026-04-01T09:47:14.937949", "level": "INFO", "message": "Collecting catalog page", "page": 25, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.938120", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=25"}
+{"timestamp": "2026-04-01T09:47:14.938257", "level": "INFO", "message": "Collecting catalog page", "page": 26, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.938412", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=26"}
+{"timestamp": "2026-04-01T09:47:14.938547", "level": "INFO", "message": "Collecting catalog page", "page": 27, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.938701", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=27"}
+{"timestamp": "2026-04-01T09:47:14.938843", "level": "INFO", "message": "Collecting catalog page", "page": 28, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.938950", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=28"}
+{"timestamp": "2026-04-01T09:47:14.939042", "level": "INFO", "message": "Collecting catalog page", "page": 29, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.939159", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=29"}
+{"timestamp": "2026-04-01T09:47:14.939238", "level": "INFO", "message": "Collecting catalog page", "page": 30, "catalog": "https://www.fragrancenet.com/perfume"}
+{"timestamp": "2026-04-01T09:47:14.939329", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/perfume?page=30"}
+{"timestamp": "2026-04-01T09:47:14.939410", "level": "INFO", "message": "Collecting catalog page", "page": 1, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.939509", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.939595", "level": "INFO", "message": "Collecting catalog page", "page": 2, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.939715", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=2"}
+{"timestamp": "2026-04-01T09:47:14.939817", "level": "INFO", "message": "Collecting catalog page", "page": 3, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.939911", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=3"}
+{"timestamp": "2026-04-01T09:47:14.940035", "level": "INFO", "message": "Collecting catalog page", "page": 4, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.940156", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=4"}
+{"timestamp": "2026-04-01T09:47:14.940252", "level": "INFO", "message": "Collecting catalog page", "page": 5, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.940361", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=5"}
+{"timestamp": "2026-04-01T09:47:14.940453", "level": "INFO", "message": "Collecting catalog page", "page": 6, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.940561", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=6"}
+{"timestamp": "2026-04-01T09:47:14.940653", "level": "INFO", "message": "Collecting catalog page", "page": 7, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.940798", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=7"}
+{"timestamp": "2026-04-01T09:47:14.940902", "level": "INFO", "message": "Collecting catalog page", "page": 8, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.941003", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=8"}
+{"timestamp": "2026-04-01T09:47:14.941099", "level": "INFO", "message": "Collecting catalog page", "page": 9, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.941188", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=9"}
+{"timestamp": "2026-04-01T09:47:14.941266", "level": "INFO", "message": "Collecting catalog page", "page": 10, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.941357", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=10"}
+{"timestamp": "2026-04-01T09:47:14.941435", "level": "INFO", "message": "Collecting catalog page", "page": 11, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.941526", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=11"}
+{"timestamp": "2026-04-01T09:47:14.941604", "level": "INFO", "message": "Collecting catalog page", "page": 12, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.941715", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=12"}
+{"timestamp": "2026-04-01T09:47:14.941855", "level": "INFO", "message": "Collecting catalog page", "page": 13, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.941961", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=13"}
+{"timestamp": "2026-04-01T09:47:14.942057", "level": "INFO", "message": "Collecting catalog page", "page": 14, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.942182", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=14"}
+{"timestamp": "2026-04-01T09:47:14.942275", "level": "INFO", "message": "Collecting catalog page", "page": 15, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.942382", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=15"}
+{"timestamp": "2026-04-01T09:47:14.942472", "level": "INFO", "message": "Collecting catalog page", "page": 16, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.942579", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=16"}
+{"timestamp": "2026-04-01T09:47:14.942670", "level": "INFO", "message": "Collecting catalog page", "page": 17, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.942814", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=17"}
+{"timestamp": "2026-04-01T09:47:14.942917", "level": "INFO", "message": "Collecting catalog page", "page": 18, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.943017", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=18"}
+{"timestamp": "2026-04-01T09:47:14.943112", "level": "INFO", "message": "Collecting catalog page", "page": 19, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.943202", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=19"}
+{"timestamp": "2026-04-01T09:47:14.943280", "level": "INFO", "message": "Collecting catalog page", "page": 20, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.943369", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=20"}
+{"timestamp": "2026-04-01T09:47:14.943447", "level": "INFO", "message": "Collecting catalog page", "page": 21, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.943536", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=21"}
+{"timestamp": "2026-04-01T09:47:14.943614", "level": "INFO", "message": "Collecting catalog page", "page": 22, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.943724", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=22"}
+{"timestamp": "2026-04-01T09:47:14.943849", "level": "INFO", "message": "Collecting catalog page", "page": 23, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.943965", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=23"}
+{"timestamp": "2026-04-01T09:47:14.944056", "level": "INFO", "message": "Collecting catalog page", "page": 24, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.944177", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=24"}
+{"timestamp": "2026-04-01T09:47:14.944269", "level": "INFO", "message": "Collecting catalog page", "page": 25, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.944374", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=25"}
+{"timestamp": "2026-04-01T09:47:14.944464", "level": "INFO", "message": "Collecting catalog page", "page": 26, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.944570", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=26"}
+{"timestamp": "2026-04-01T09:47:14.944665", "level": "INFO", "message": "Collecting catalog page", "page": 27, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.944774", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=27"}
+{"timestamp": "2026-04-01T09:47:14.944867", "level": "INFO", "message": "Collecting catalog page", "page": 28, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.944973", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=28"}
+{"timestamp": "2026-04-01T09:47:14.945067", "level": "INFO", "message": "Collecting catalog page", "page": 29, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.945176", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=29"}
+{"timestamp": "2026-04-01T09:47:14.945269", "level": "INFO", "message": "Collecting catalog page", "page": 30, "catalog": "https://www.fragrancenet.com/cologne"}
+{"timestamp": "2026-04-01T09:47:14.945375", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/cologne?page=30"}
+{"timestamp": "2026-04-01T09:47:14.945470", "level": "INFO", "message": "Collecting catalog page", "page": 1, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.945580", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.945674", "level": "INFO", "message": "Collecting catalog page", "page": 2, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.945923", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=2"}
+{"timestamp": "2026-04-01T09:47:14.946221", "level": "INFO", "message": "Collecting catalog page", "page": 3, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.946446", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=3"}
+{"timestamp": "2026-04-01T09:47:14.946624", "level": "INFO", "message": "Collecting catalog page", "page": 4, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.946807", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=4"}
+{"timestamp": "2026-04-01T09:47:14.947028", "level": "INFO", "message": "Collecting catalog page", "page": 5, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.947184", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=5"}
+{"timestamp": "2026-04-01T09:47:14.947294", "level": "INFO", "message": "Collecting catalog page", "page": 6, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.947490", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=6"}
+{"timestamp": "2026-04-01T09:47:14.947654", "level": "INFO", "message": "Collecting catalog page", "page": 7, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.947826", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=7"}
+{"timestamp": "2026-04-01T09:47:14.947951", "level": "INFO", "message": "Collecting catalog page", "page": 8, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.948080", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=8"}
+{"timestamp": "2026-04-01T09:47:14.948173", "level": "INFO", "message": "Collecting catalog page", "page": 9, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.948282", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=9"}
+{"timestamp": "2026-04-01T09:47:14.948385", "level": "INFO", "message": "Collecting catalog page", "page": 10, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.948501", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=10"}
+{"timestamp": "2026-04-01T09:47:14.948596", "level": "INFO", "message": "Collecting catalog page", "page": 11, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.948704", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=11"}
+{"timestamp": "2026-04-01T09:47:14.948838", "level": "INFO", "message": "Collecting catalog page", "page": 12, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.948947", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=12"}
+{"timestamp": "2026-04-01T09:47:14.949039", "level": "INFO", "message": "Collecting catalog page", "page": 13, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.949146", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=13"}
+{"timestamp": "2026-04-01T09:47:14.949239", "level": "INFO", "message": "Collecting catalog page", "page": 14, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.949346", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=14"}
+{"timestamp": "2026-04-01T09:47:14.949438", "level": "INFO", "message": "Collecting catalog page", "page": 15, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.949544", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=15"}
+{"timestamp": "2026-04-01T09:47:14.949652", "level": "INFO", "message": "Collecting catalog page", "page": 16, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.949783", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=16"}
+{"timestamp": "2026-04-01T09:47:14.949892", "level": "INFO", "message": "Collecting catalog page", "page": 17, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.949998", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=17"}
+{"timestamp": "2026-04-01T09:47:14.950090", "level": "INFO", "message": "Collecting catalog page", "page": 18, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.950196", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=18"}
+{"timestamp": "2026-04-01T09:47:14.950288", "level": "INFO", "message": "Collecting catalog page", "page": 19, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.950394", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=19"}
+{"timestamp": "2026-04-01T09:47:14.950486", "level": "INFO", "message": "Collecting catalog page", "page": 20, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.950591", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=20"}
+{"timestamp": "2026-04-01T09:47:14.950682", "level": "INFO", "message": "Collecting catalog page", "page": 21, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.950787", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=21"}
+{"timestamp": "2026-04-01T09:47:14.950878", "level": "INFO", "message": "Collecting catalog page", "page": 22, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.950990", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=22"}
+{"timestamp": "2026-04-01T09:47:14.951085", "level": "INFO", "message": "Collecting catalog page", "page": 23, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.951192", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=23"}
+{"timestamp": "2026-04-01T09:47:14.951286", "level": "INFO", "message": "Collecting catalog page", "page": 24, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.951393", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=24"}
+{"timestamp": "2026-04-01T09:47:14.951486", "level": "INFO", "message": "Collecting catalog page", "page": 25, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.951614", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=25"}
+{"timestamp": "2026-04-01T09:47:14.951709", "level": "INFO", "message": "Collecting catalog page", "page": 26, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.951854", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=26"}
+{"timestamp": "2026-04-01T09:47:14.951946", "level": "INFO", "message": "Collecting catalog page", "page": 27, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.952053", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=27"}
+{"timestamp": "2026-04-01T09:47:14.952144", "level": "INFO", "message": "Collecting catalog page", "page": 28, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.952249", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=28"}
+{"timestamp": "2026-04-01T09:47:14.952339", "level": "INFO", "message": "Collecting catalog page", "page": 29, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.952443", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=29"}
+{"timestamp": "2026-04-01T09:47:14.952534", "level": "INFO", "message": "Collecting catalog page", "page": 30, "catalog": "https://www.fragrancenet.com/browse"}
+{"timestamp": "2026-04-01T09:47:14.952638", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/browse?page=30"}
+{"timestamp": "2026-04-01T09:47:14.952728", "level": "INFO", "message": "Trying sitemap approach"}
+{"timestamp": "2026-04-01T09:47:14.952900", "level": "WARNING", "message": "Robots.txt disallows URL", "url": "https://www.fragrancenet.com/sitemap.xml"}
+{"timestamp": "2026-04-01T09:47:14.953000", "level": "INFO", "message": "Total unique product URLs", "count": 0}
+{"timestamp": "2026-04-01T09:47:14.953387", "level": "INFO", "message": "Initialized pending URLs", "source": "fragrancenet", "count": 0}
+{"timestamp": "2026-04-01T09:47:14.953891", "level": "INFO", "message": "Total pending products", "count": 0}
+{"timestamp": "2026-04-01T09:47:14.954043", "level": "INFO", "message": "FragranceNet crawl complete", "processed": 0}
+{"timestamp": "2026-04-01T09:47:14.954194", "level": "INFO", "message": "Exporting data to JSON files"}
+{"timestamp": "2026-04-01T09:47:14.965403", "level": "INFO", "message": "Exported combined data", "file": "output\\all_perfumes_data_20260401_124714.json"}
+{"timestamp": "2026-04-01T09:47:14.966009", "level": "INFO", "message": "Final statistics", "fragrantica_completed": 0, "fragrancenet_completed": 0, "output_dir": "output"}
+{"timestamp": "2026-04-01T09:47:14.966437", "level": "INFO", "message": "All scraping tasks completed successfully!"}
+{"timestamp": "2026-04-01T09:47:14.966598", "level": "INFO", "message": "Exporting data to JSON files"}
+{"timestamp": "2026-04-01T09:47:14.968216", "level": "INFO", "message": "Exported combined data", "file": "output\\all_perfumes_data_20260401_124714.json"}
+{"timestamp": "2026-04-01T09:47:14.968722", "level": "INFO", "message": "Final statistics", "fragrantica_completed": 0, "fragrancenet_completed": 0, "output_dir": "output"}
+{"timestamp": "2026-04-01T09:47:14.969079", "level": "INFO", "message": "Scraping operation completed!"}
+{"timestamp": "2026-04-01T12:56:47.036144", "level": "INFO", "message": "Scraping started", "days": 7, "until": "2026-04-08"}
+{"timestamp": "2026-04-01T12:56:47.037037", "level": "INFO", "message": "Iteration started", "iteration": 1}
+{"timestamp": "2026-04-01T12:56:48.674768", "level": "INFO", "message": "Playwright browser started", "headless": true}
+{"timestamp": "2026-04-01T12:56:48.675039", "level": "INFO", "message": "Starting Fragrantica crawl"}
+{"timestamp": "2026-04-01T12:56:48.675588", "level": "INFO", "message": "Initialized pending URLs", "source": "fragrantica", "count": 0}
+{"timestamp": "2026-04-01T12:56:48.676325", "level": "INFO", "message": "No pending URLs, collecting now..."}
+{"timestamp": "2026-04-01T12:56:48.676572", "level": "INFO", "message": "Collecting perfume URLs from Fragrantica search pages"}
+{"timestamp": "2026-04-01T12:56:48.676743", "level": "INFO", "message": "Scraping search page", "page": 1}
+{"timestamp": "2026-04-01T12:57:07.678814", "level": "INFO", "message": "Found perfumes on page", "page": 1, "count": 15}
+{"timestamp": "2026-04-01T12:57:07.679020", "level": "INFO", "message": "Scraping search page", "page": 2}
+{"timestamp": "2026-04-01T12:57:15.867945", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=2"}
+{"timestamp": "2026-04-01T12:57:15.868366", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 1}
+{"timestamp": "2026-04-01T12:57:39.168547", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=2"}
+{"timestamp": "2026-04-01T12:57:39.169446", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 2}
+{"timestamp": "2026-04-01T12:58:15.634278", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=2"}
+{"timestamp": "2026-04-01T12:58:15.634479", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 3}
+{"timestamp": "2026-04-01T12:59:01.173595", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=2"}
+{"timestamp": "2026-04-01T12:59:01.173852", "level": "WARNING", "message": "Failed to get page", "page": 2}
+{"timestamp": "2026-04-01T12:59:01.174011", "level": "INFO", "message": "Scraping search page", "page": 3}
+{"timestamp": "2026-04-01T12:59:09.671311", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=3"}
+{"timestamp": "2026-04-01T12:59:09.671621", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 1}
+{"timestamp": "2026-04-01T12:59:32.977092", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=3"}
+{"timestamp": "2026-04-01T12:59:32.977336", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 2}
+{"timestamp": "2026-04-01T13:00:04.988767", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=3"}
+{"timestamp": "2026-04-01T13:00:04.989592", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 3}
+{"timestamp": "2026-04-01T13:00:49.433508", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=3"}
+{"timestamp": "2026-04-01T13:00:49.433698", "level": "WARNING", "message": "Failed to get page", "page": 3}
+{"timestamp": "2026-04-01T13:00:49.433806", "level": "INFO", "message": "Scraping search page", "page": 4}
+{"timestamp": "2026-04-01T13:00:57.626289", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=4"}
+{"timestamp": "2026-04-01T13:00:57.626616", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 1}
+{"timestamp": "2026-04-01T13:01:20.034323", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=4"}
+{"timestamp": "2026-04-01T13:01:20.034743", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 2}
+{"timestamp": "2026-04-01T13:01:54.566430", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=4"}
+{"timestamp": "2026-04-01T13:01:54.566860", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 3}
+{"timestamp": "2026-04-01T13:02:39.904971", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=4"}
+{"timestamp": "2026-04-01T13:02:39.905313", "level": "WARNING", "message": "Failed to get page", "page": 4}
+{"timestamp": "2026-04-01T13:02:39.905505", "level": "INFO", "message": "Scraping search page", "page": 5}
+{"timestamp": "2026-04-01T13:02:48.094464", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=5"}
+{"timestamp": "2026-04-01T13:02:48.095433", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 1}
+{"timestamp": "2026-04-01T13:03:14.435695", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=5"}
+{"timestamp": "2026-04-01T13:03:14.436025", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 2}
+{"timestamp": "2026-04-01T13:03:47.119766", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=5"}
+{"timestamp": "2026-04-01T13:03:47.120028", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 3}
+{"timestamp": "2026-04-01T13:04:32.410919", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=5"}
+{"timestamp": "2026-04-01T13:04:32.411326", "level": "WARNING", "message": "Failed to get page", "page": 5}
+{"timestamp": "2026-04-01T13:04:32.411583", "level": "INFO", "message": "Scraping search page", "page": 6}
+{"timestamp": "2026-04-01T13:04:40.319732", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=6"}
+{"timestamp": "2026-04-01T13:04:40.320163", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 1}
+{"timestamp": "2026-04-01T13:05:02.598330", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=6"}
+{"timestamp": "2026-04-01T13:05:02.598914", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 2}
+{"timestamp": "2026-04-01T13:05:27.600173", "level": "INFO", "message": "Extended break", "delay": 14.4}
+{"timestamp": "2026-04-01T13:05:43.950901", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=6"}
+{"timestamp": "2026-04-01T13:05:43.951276", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 3}
+{"timestamp": "2026-04-01T13:06:26.990476", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=6"}
+{"timestamp": "2026-04-01T13:06:26.990813", "level": "WARNING", "message": "Failed to get page", "page": 6}
+{"timestamp": "2026-04-01T13:06:26.991010", "level": "INFO", "message": "Scraping search page", "page": 7}
+{"timestamp": "2026-04-01T13:06:37.731346", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=7"}
+{"timestamp": "2026-04-01T13:06:37.731804", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 1}
+{"timestamp": "2026-04-01T13:07:01.513818", "level": "WARNING", "message": "Cloudflare challenge detected", "url": "https://www.fragrantica.com/search/?q=&page=7"}
+{"timestamp": "2026-04-01T13:07:01.514269", "level": "INFO", "message": "Waiting for Cloudflare...", "retry": 2}
+{"timestamp": "2026-04-01T13:07:21.916277", "level": "INFO", "message": "Stop signal received, saving and exiting..."}
